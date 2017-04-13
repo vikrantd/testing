@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+.title {
+  color: white;
+  font-size: 40px;
+  letter-spacing: -1px;
+  font-weight: normal;
+}
+
+.footer {
+  font-size: 13px;
+  margin-top: 1.5em;
+
+  & a {
+    color: #FFF;
+    text-decoration: none;
+  }
+}
